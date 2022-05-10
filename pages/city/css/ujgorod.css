@@ -345,6 +345,16 @@ ion-icon {
     transition: 0.4s;
 }
 
+.top-hotel {
+    position: absolute;
+    top: 170px;
+    z-index: 1;
+}
+
+.top-hotel-img {
+    width: 1440px;
+}
+
 .main_cont:hover {
     color: #232323;
     transition: 0.4s;
